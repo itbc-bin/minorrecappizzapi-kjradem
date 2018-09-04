@@ -5,6 +5,7 @@ app = Flask(__name__)
 pizzaDB = [
             {'name': 'Margaritha'},
             {'name': 'Hawaii'},
+            {'name': 'Hawaii met extra ananas voor Sjors'},
             {'name': 'Salami'}
           ]
 
